@@ -24,7 +24,7 @@ The most basic Python Android App
 
  The .apk file you just created will be in this directory by default "/home/Kivy/app/bin"
  Unless modified in the buildozer.spec file
- You can also add parameters such as;
+ you can also add parameters such as;
 
 >> buildozer -v android debug deploy run
 
