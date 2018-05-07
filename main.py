@@ -1,7 +1,7 @@
 # ==================== HOW TO DEPLOY TO ANDROID ========================= #
 # ONLY COMPATIBLE WITH LINUX OF LINUX VIRTUAL MACHINES RIGHT NOW
 # use oracle vm ware and download a vm box from the kivy website online
-# if you are running windows.
+# if you are running windows. https://kivy.org/#download
 #
 # You will need the latest version of Kivy
 # >> pip install --upgrade Kivy
