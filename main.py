@@ -62,6 +62,7 @@ class mainGame(Widget):
 
     # INIT mainGame()
     def __init__(self, **kwargs):
+        # SUPER the mainGame() class
         super(mainGame, self).__init__(**kwargs)
         # CREATE WIDGET
         self.variable = Label(text='0', halign='left')
