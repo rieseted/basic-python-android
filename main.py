@@ -54,7 +54,6 @@ class mainGame(Widget):
 
     # Step Function
     def gameStep(self, *args):
-
         # UPDATE Variables
         self.variable.text = str(int(self.variable.text) + 1)
         # UPDATE Widget Position
