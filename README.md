@@ -14,7 +14,7 @@ The most basic Python Android App
 
  Navigate to the main.py directory in your console
  If you do not have a "buildozer.spec" file in this directory
- use this command to create one, (then modify it to suit you)
+ use this command to create one, then modify it to suit you.
 
 >> buildozer init
 
