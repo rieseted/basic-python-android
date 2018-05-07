@@ -1,7 +1,7 @@
 # basic-python-android
 The most basic Python Android App
 
-# ==================== HOW TO DEPLOY TO ANDROID ========================= #
+# === HOW TO DEPLOY TO ANDROID === #
  ONLY COMPATIBLE WITH LINUX OF LINUX VIRTUAL MACHINES RIGHT NOW
  use oracle vm ware and download a vm box from the kivy website online
  if you are running windows.
@@ -41,4 +41,3 @@ The most basic Python Android App
  in the buildozer.spec file to: "/home/ MY USER NAME /app/build"
  RECOMMENDED: change bin.dir @ line 189
  in the buildozer.spec file to: "/home/ MY USER NAME /app/bin"
-# ======================================================================= #
